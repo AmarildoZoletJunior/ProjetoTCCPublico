@@ -1,11 +1,11 @@
 ## Índices
 * [Objetivo](#Objetivo)
-* [Requisitos do Projeto](#RequisitosdoProjeto)
-  *  [Requisitos Funcionais](#RequisitosFuncionais)
-  *  [Requisitos Não Funcionais](#RequisitosNãoFuncionais) 
+* [Requisitos do Projeto](#Requisitos-do-Projeto)
+  *  [Requisitos Funcionais](#Requisitos-Funcionais)
+  *  [Requisitos Não Funcionais](#Requisitos-Não-Funcionais) 
 * [Infraestrutura](#Infraestrutura)
-* [Tecnologias Utilizadas](#TecnologiasUtilizadas)
-* [Alertas e recomendações](#AlertaseRecomendações)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+* [Alertas e recomendações](#Alertas-e-Recomendações)
 
 
 # Objetivo
