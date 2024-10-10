@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "backend"
+name = "src"
 version = "0.1.0"
 description = ""
 authors = ["Amarildo <amarildozj@gmail.com>"]
@@ -7,9 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-flask = "^3.0.3"
-scikit-learn = "^1.5.2"
-pandas = "^2.2.3"
+sqlalchemy = "^2.0.35"
+pyodbc = "^5.1.0"
+pyjwt = "^2.9.0"
+configparser = "^7.1.0"
 
 
 [build-system]
