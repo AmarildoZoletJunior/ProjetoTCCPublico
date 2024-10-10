@@ -29,14 +29,6 @@ Back-End:
       * Pandas
       * Numpy
       * Re
-     
-      
-Front-End:
- * Angular
- * Axios
- * HTML
- * CSS
-
    
 Banco de dados:
   * SQL Server
